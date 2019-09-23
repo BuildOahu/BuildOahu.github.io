@@ -1,0 +1,25 @@
+﻿id,task,employee,client,start_date,end_date,Location
+1,Install glass door,Tucker,StevenD,Wed 9/25/19,Wed 9/25/19,StevenD
+2,"Install lights, electrical, door trim and base trim",Tucker,BOP1004,Mon 9/23/19,Tue 9/24/19,BOP1004
+3,"Install lights, electrical, door trim and base trim",Isaiah,BOP1004,Mon 9/23/19,Tue 9/24/19,BOP1004
+4,Install doors and base trim & lighting,Tucker,BOP1004,Mon 9/23/19,Tue 9/24/19,BOP1004
+5,Install doors and base trim & lighting,Isaiah,BOP1004,Mon 9/23/19,Tue 9/24/19,BOP1004
+6,Install cabinetry,C&C,BOP1004,Wed 9/25/19,Fri 9/27/19,BOP1004
+8,Install lights and electrical switches,Isaiah,BOP1004,Fri 9/27/19,Fri 9/27/19,BOP1004
+9,Build decks,John,536Hao,Tue 9/24/19,Fri 10/11/19,536Hao
+10,Build decks,Mauricio,536Hao,Mon 9/23/19,Fri 10/11/19,536Hao
+11,Build decks,Hunter,536Hao,Mon 9/23/19,Fri 10/11/19,536Hao
+12,Build decks,Seth,536Hao,Mon 9/23/19,Fri 10/11/19,536Hao
+13,Replace door hardware,John,Miller,Mon 9/23/19,Mon 9/23/19,Miller
+14,Patch and paint wall,John,Miller,Mon 9/23/19,Mon 9/23/19,Miller
+15,repair tile,John,Miller,Mon 9/23/19,Mon 9/23/19,Miller
+16,install glass,John,Miller,Mon 9/23/19,Mon 9/23/19,Miller
+17,Pick up gate and deliver to 602 Hao,Tucker,Kijek,Thu 9/26/19,Thu 9/26/19,Kijek
+18,Clean Shop,John,BuildOahu,Fri 9/27/19,Fri 9/27/19,Shop
+19,Clean Shop,Mauricio,BuildOahu,Fri 9/27/19,Fri 9/27/19,Shop
+20,Clean Shop,Hunter,BuildOahu,Fri 9/27/19,Fri 9/27/19,Shop
+21,Clean Shop,Seth,BuildOahu,Fri 9/27/19,Fri 9/27/19,Shop
+22,Clean Shop,Isaiah,BuildOahu,Fri 9/27/19,Fri 9/27/19,Shop
+23,Clean Shop,Tucker,BuildOahu,Fri 9/27/19,Fri 9/27/19,Shop
+,,,,,,
+,,,,,,
